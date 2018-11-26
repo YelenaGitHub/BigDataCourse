@@ -1,0 +1,10 @@
+Nov 16 10:21:01 ephubudw3000 avahi-daemon[990]: Invalid response packet from host 10.0.9.31.
+Nov 16 10:21:01 ephubudw3000 avahi-daemon[990]: Invalid response packet from host 10.0.8.217.
+Nov 16 10:21:01 ephubudw3000 avahi-daemon[990]: Invalid response packet from host 10.0.12.143.
+Nov 16 10:21:01 ephubudw3000 avahi-daemon[990]: Invalid response packet from host 10.0.8.239.
+Nov 16 10:21:01 ephubudw3000 avahi-daemon[990]: Invalid response packet from host 10.0.9.126.
+Nov 16 10:21:01 ephubudw3000 avahi-daemon[990]: Invalid response packet from host 10.0.14.58.
+Nov 16 10:21:01 ephubudw3000 avahi-daemon[990]: Invalid response packet from host 10.0.9.15.
+Nov 16 10:21:01 ephubudw3000 avahi-daemon[990]: Invalid response packet from host 10.0.13.187.
+Nov 16 10:21:01 ephubudw3000 avahi-daemon[990]: Invalid response packet from host 10.0.13.25.
+Nov 16 10:21:01 ephubudw3000 avahi-daemon[990]: Invalid response packet from host 10.0.7.67.

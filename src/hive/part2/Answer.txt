@@ -1,0 +1,2 @@
+How many MR jobs where instanced for this query?
+2 Jobs.

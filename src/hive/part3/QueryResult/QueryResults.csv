@@ -1,0 +1,335 @@
+c.name,firstrowgroup.devicetype,firstrowgroup.browser,firstrowgroup.browsertype,firstrowgroup.os
+unknown,Computer,Apple WebKit,Browser,Windows 7
+shijiazhuang,Computer,Internet Explorer 7,Browser,Windows 7
+tangshan,Computer,Chrome 29,Browser,Windows 8.1
+qinhuangdao,Computer,Safari 5,Browser,Windows XP
+handan,Computer,Chrome 31,Browser,Windows 8.1
+xingtai,Computer,Safari 5,Browser,Windows 7
+baoding,Computer,Internet Explorer 10,Browser,Windows 8
+zhangjiakou,Computer,Safari 5,Browser,Mac OS X
+chengde,Computer,Safari 5,Browser,Windows XP
+cangzhou,Computer,Chrome 17,Browser,Windows Vista
+langfang,Computer,Chrome 21,Browser,Windows XP
+hengshui,Computer,Safari 5,Browser,Windows XP
+taiyuan,Computer,Safari 5,Browser,Windows XP
+datong,Computer,Chrome,Browser,Windows XP
+yangquan,Computer,Internet Explorer 8,Browser,Windows XP
+changzhi,Computer,Internet Explorer 7,Browser,Windows XP
+jincheng,Mobile,Mobile Safari,Browser (mobile),Mac OS X (iPhone)
+shuozhou,Computer,Chrome 26,Browser,Windows XP
+jinzhongshi,Computer,Internet Explorer 6,Browser,Windows XP
+yuncheng,Computer,Safari 5,Browser,Windows XP
+xinzhou,Computer,Chrome 26,Browser,Windows Vista
+linfen,Computer,Chrome 21,Browser,Windows 8
+lvliang,Computer,Safari 5,Browser,Mac OS X
+huhehaote,Computer,Safari 5,Browser,Windows XP
+baotou,Computer,Safari 5,Browser,Windows XP
+wuhai,Computer,Chrome 17,Browser,Windows XP
+chifeng,Computer,Internet Explorer 7,Browser,Windows XP
+tongliao,Computer,Internet Explorer 8,Browser,Windows 7
+eerduosi,Computer,Safari 5,Browser,Windows 7
+hulunbeier,Computer,Safari 5,Browser,Windows XP
+bayannaoer,Computer,Internet Explorer 7,Browser,Windows 7
+wulanchabu,Computer,Internet Explorer 9,Browser,Windows 7
+xingan,Computer,Internet Explorer 9,Browser,Windows XP
+xilinguole,Computer,Internet Explorer 7,Browser,Windows XP
+alashan,Computer,Chrome 24,Browser,Windows XP
+shenyang,Computer,Internet Explorer 7,Browser,Windows XP
+dalian,Tablet,Mobile Safari,Browser (mobile),iOS 6 (iPad)
+anshan,Computer,Safari 5,Browser,Mac OS X
+fushun,Computer,Safari 5,Browser,Windows XP
+benxi,Computer,Chrome 29,Browser,Windows 7
+dandong,Computer,Safari 5,Browser,Mac OS X
+jinzhou,Computer,Internet Explorer 7,Browser,Windows Vista
+yingkou,Tablet,Apple WebKit,Browser,Mac OS X (iPad)
+fuxin,Computer,Chrome 22,Browser,Windows 7
+liaoyang,Computer,Safari 5,Browser,Mac OS X
+panjin,Mobile,Apple WebKit,Browser,Android Mobile
+tieling,Computer,Safari 5,Browser,Mac OS X
+chaoyang,Computer,Chrome 24,Browser,Windows 7
+huludao,Computer,Safari 5,Browser,Windows 7
+changchun,Computer,Chrome 26,Browser,Windows XP
+jilin_city,Computer,Safari 5,Browser,Mac OS X
+siping,Computer,Firefox 24,Browser,Windows 7
+liaoyuan,Computer,Internet Explorer 7,Browser,Windows 7
+tonghua,Computer,Safari 4,Browser,Windows XP
+baishan,Computer,Chrome 32,Browser,Windows XP
+songyuan,Computer,Chrome 24,Browser,Windows 7
+baicheng,Computer,Internet Explorer 11,Browser,Windows 8.1
+yanbian,Computer,Safari 5,Browser,Mac OS X
+haerbin,Computer,Safari 5,Browser,Windows XP
+qiqihaer,Computer,Opera 12,Browser,Windows XP
+jixi,Computer,Internet Explorer 7,Browser,Windows 7
+hegang,Computer,Chrome 20,Browser,Windows 7
+shuangyashan,Computer,Internet Explorer 8,Browser,Windows XP
+daqing,Computer,Chrome 18,Browser,Windows 7
+yichun_65,Computer,Safari 5,Browser,Windows XP
+jiamusi,Computer,Chrome 29,Browser,Windows 7
+qitaihe,Computer,Chrome 21,Browser,Windows XP
+mudanjiang,Computer,Internet Explorer 9,Browser,Windows 8
+heihe,Computer,Internet Explorer 6,Browser,Windows XP
+suihua,Computer,Chrome 14,Browser,Windows XP
+daxinganling,Computer,Chrome 21,Browser,Windows XP
+nanjing,Computer,Apple WebKit,Browser,Mac OS X
+wuxi,Computer,Safari 5,Browser,Windows XP
+xuzhou,Computer,Chrome 26,Browser,Windows 7
+changzhou,Computer,Chrome 30,Browser,Windows 8
+suzhou_jiangsu,Computer,Chrome 29,Browser,Linux
+nantong,Mobile,Mobile Safari,Browser (mobile),Android Mobile
+lianyungang,Computer,Safari 5,Browser,Mac OS X
+huaian,Computer,Safari 5,Browser,Windows XP
+yancheng,Computer,Chrome 21,Browser,Windows XP
+yangzhou,Computer,Safari 5,Browser,Windows XP
+zhenjiang,Tablet,Safari 5,Browser,Android 3.x Tablet
+taizhou_jiangsu,Computer,Chrome 30,Browser,Windows XP
+suqian,Computer,Chrome 14,Browser,Windows 7
+hangzhou,Mobile,Firefox Mobile,Browser (mobile),Maemo
+ningbo,Computer,Safari 5,Browser,Windows 7
+wenzhou,Computer,Chrome 27,Browser,Windows XP
+jiaxing,Computer,Safari 5,Browser,Windows XP
+huzhou,Computer,Safari 4,Browser,Windows 7
+shaoxing,Computer,Internet Explorer 7,Browser,Windows XP
+jinhua,Computer,Chrome 15,Browser,Windows 7
+quzhou,Computer,Safari 5,Browser,Windows XP
+zhoushan,Computer,Safari 5,Browser,Windows XP
+taizhou,Computer,Chrome 20,Browser,Windows 8
+lishui,Computer,Internet Explorer 8,Browser,Windows 7
+hefei,Computer,Safari 5,Browser,Windows XP
+wuhu,Computer,Chrome 25,Browser,Windows 7
+bangbu,Computer,Chrome 30,Browser,Windows XP
+huainan,Computer,Chrome 21,Browser,Windows XP
+maanshan,Mobile,Safari 5,Browser,Android 4.x
+huaibei,Computer,Chrome 21,Browser,Windows 7
+tongling,Computer,Chrome 28,Browser,Windows XP
+anqing,Computer,Internet Explorer 8,Browser,Windows XP
+huangshan,Computer,Chrome 14,Browser,Windows XP
+chuzhou,Computer,Chrome 21,Browser,Windows 8
+fuyang,Computer,Chrome 23,Browser,Windows XP
+suzhou,Computer,Internet Explorer 7,Browser,Windows XP
+chaohu,Computer,Chrome 22,Browser,Windows XP
+liuan,Computer,Internet Explorer 7,Browser,Windows 7
+bozhou,Computer,Chrome 20,Browser,Windows 7
+chizhou,Computer,Internet Explorer 7,Browser,Windows XP
+xuancheng,Computer,Chrome 18,Browser,Windows 8
+fuzhou_124,Mobile,Apple WebKit,Browser,Android
+xiamen,Computer,Safari 5,Browser,Windows XP
+putian,Computer,Firefox 22,Browser,Windows XP
+sanming,Computer,Chrome 21,Browser,Windows 7
+quanzhou,Computer,Firefox 24,Browser,Windows 7
+zhangzhou,Computer,Chrome 30,Browser,Mac OS X
+nanping,Computer,Chrome 26,Browser,Windows XP
+longyan,Computer,Chrome 29,Browser,Windows XP
+ningde,Computer,Internet Explorer 7,Browser,Windows 8
+nanchang,Tablet,Mobile Safari,Browser (mobile),iOS 7 (iPad)
+jingdezhen,Computer,Internet Explorer 7,Browser,Windows 7
+pingxiang,Computer,Chrome 29,Browser,Windows XP
+jiujiang,Computer,Safari 5,Browser,Windows XP
+xinyu,Computer,Internet Explorer 10,Browser,Windows 8
+yingtan,Computer,Internet Explorer 7,Browser,Windows XP
+ganzhou,Computer,Chrome 17,Browser,Windows 7
+jian,Tablet,Mobile Safari,Browser (mobile),iOS 7 (iPad)
+yichun_134,Computer,Safari 5,Browser,Windows 7
+fuzhou_134,Computer,Internet Explorer 8,Browser,Windows 7
+shangrao,Computer,Safari 5,Browser,Windows XP
+jinan,Computer,Safari 5,Browser,Mac OS X
+qingdao,Computer,Mobile Safari,Browser (mobile),Linux
+zibo,Mobile,Mobile Safari,Browser (mobile),Android 2.x
+zaozhuang,Computer,Safari 5,Browser,Mac OS X
+dongying,Computer,Safari 5,Browser,Mac OS X
+yantai,Computer,Firefox 24,Browser,Windows XP
+weifang,Computer,Firefox 24,Browser,Windows XP
+jining,Computer,Chrome 20,Browser,Windows XP
+taian,Computer,Internet Explorer 7,Browser,Windows 8
+weihai,Computer,Firefox 25,Browser,Windows 7
+rizhao,Computer,Chrome 21,Browser,Windows XP
+laiwu,Computer,Chrome 21,Browser,Windows XP
+linyi,Tablet,Safari 5,Browser,Android 3.x Tablet
+dezhou,Computer,Chrome 21,Browser,Windows XP
+liaocheng,Computer,Safari 5,Browser,Windows 7
+binzhou,Computer,Chrome 24,Browser,Windows 8
+heze,Computer,Internet Explorer 7,Browser,Windows 7
+zhengzhou,Mobile,Mobile Safari,Browser (mobile),iOS 7 (iPhone)
+kaifeng,Tablet,Safari 5,Browser,iOS 6 (iPad)
+luoyang,Computer,Internet Explorer 7,Browser,Windows 8
+pingdingshan,Computer,Chrome 26,Browser,Windows 8
+anyang,Computer,Safari 5,Browser,Windows XP
+hebi,Computer,Safari 5,Browser,Windows XP
+xinxiang,Computer,Chrome 17,Browser,Windows XP
+jiaozuo,Computer,Safari 5,Browser,Mac OS X
+puyang,Computer,Internet Explorer 7,Browser,Windows XP
+xuchang,Computer,Chrome 22,Browser,Windows 7
+luohe,Computer,Chrome 21,Browser,Windows XP
+sanmenxia,Computer,Chrome 26,Browser,Windows 7
+nanyang,Mobile,Apple WebKit,Browser,Android 2.x
+shangqiu,Computer,Chrome 26,Browser,Windows XP
+xinyang,Computer,Safari 5,Browser,Windows XP
+zhoukou,Computer,Chrome 26,Browser,Windows XP
+zhumadian,Computer,Safari 5,Browser,Mac OS X
+wuhan,Computer,Chrome 14,Browser,Windows 7
+huangshi,Computer,Internet Explorer 9,Browser,Windows 7
+shiyan,Computer,Internet Explorer 7,Browser,Windows XP
+yichang,Computer,Chrome 24,Browser,Windows 7
+xiangfan,Computer,Safari 5,Browser,Windows XP
+ezhou,Computer,Safari 5,Browser,Mac OS X
+jingmen,Computer,Chrome 21,Browser,Windows 8
+xiaogan,Mobile,Apple WebKit,Browser,Android Mobile
+jingzhou,Computer,Safari 5,Browser,Mac OS X
+huanggang,Computer,Chrome 21,Browser,Windows XP
+xianning,Mobile,Mobile Safari,Browser (mobile),iOS 7 (iPhone)
+suizhou,Computer,Safari 5,Browser,Windows 7
+enshishi,Computer,Internet Explorer 7,Browser,Windows 7
+changsha,Computer,Safari 5,Browser,Windows XP
+zhuzhou,Tablet,Apple WebKit,Browser,Mac OS X (iPad)
+xiangtan,Computer,Chrome 21,Browser,Windows 7
+hengyang,Computer,Safari 5,Browser,Mac OS X
+shaoyang,Computer,Chrome 28,Browser,Windows XP
+yueyang,Computer,Safari 5,Browser,Windows XP
+changde,Computer,Safari 5,Browser,Windows XP
+zhangjiajie,Computer,Internet Explorer 10,Browser,Windows 8
+yiyang,Computer,Chrome 21,Browser,Windows XP
+chenzhou,Computer,Internet Explorer 9,Browser,Windows XP
+yongzhou,Computer,Firefox 20,Browser,Windows XP
+huaihua,Computer,Safari 5,Browser,Windows 7
+loudi,Computer,Chrome 18,Browser,Windows XP
+xiangxi,Computer,Safari 5,Browser,Mac OS X
+guangzhou,Computer,Apple WebKit,Browser,Mac OS X
+shaoguan,Computer,Chrome 27,Browser,Windows XP
+shenzhen,Computer,Mobile Safari,Browser (mobile),Linux
+zhuhai,Computer,Chrome 32,Browser,Windows XP
+shantou,Computer,Safari 5,Browser,Mac OS X
+foshan,Computer,Chrome 30,Browser,Mac OS X
+jiangmen,Computer,Chrome 24,Browser,Windows 8
+zhanjiang,Computer,Safari 5,Browser,Windows XP
+maoming,Computer,Safari 5,Browser,Windows XP
+zhaoqing,Computer,Internet Explorer 10,Browser,Windows Vista
+huizhou,Computer,Safari 5,Browser,Windows 8
+meizhou,Computer,Safari 5,Browser,Windows 7
+shanwei,Mobile,Mobile Safari,Browser (mobile),Android 4.x
+heyuan,Computer,Safari 5,Browser,Windows 7
+yangjiang,Computer,Opera 15,Browser,Windows 7
+qingyuan,Computer,Safari 5,Browser,Windows XP
+dongguan,Computer,Chrome 10,Browser,Windows 7
+zhongshan,Computer,Safari 5,Browser,Mac OS X
+chaozhou,Computer,Internet Explorer 9,Browser,Windows 7
+jieyang,Computer,Safari 5,Browser,Windows XP
+yunfu,Computer,Safari 5,Browser,Mac OS X
+nanning,Computer,Unknown,unknown,Linux
+liuzhou,Computer,Safari 5,Browser,Windows XP
+guilin,Computer,Chrome 18,Browser,Windows Vista
+wuzhou,Computer,Chrome 21,Browser,Windows 7
+beihai,Computer,Chrome 20,Browser,Windows XP
+fangchenggang,Computer,Safari 5,Browser,Windows XP
+qinzhou,Computer,Safari 5,Browser,Windows 7
+guigang,Computer,Safari 5,Browser,Windows XP
+yulin_238,Computer,Internet Explorer 7,Browser,Windows Vista
+baise,Computer,Internet Explorer 8,Browser,Windows XP
+hezhou,Computer,Internet Explorer 7,Browser,Windows XP
+hechi,Computer,Chrome 16,Browser,Windows XP
+laibin,Computer,Internet Explorer 7,Browser,Windows XP
+chongzuo,Computer,Internet Explorer 8,Browser,Windows XP
+haikou,Computer,Safari 5,Browser,Windows XP
+sanya,Computer,Chrome 21,Browser,Windows XP
+chengdu,Computer,Chrome 31,Browser,Windows XP
+zigong,Computer,Chrome 21,Browser,Windows XP
+panzhihua,Computer,Chrome 26,Browser,Windows 7
+luzhou,Computer,Chrome 21,Browser,Windows XP
+deyang,Mobile,Apple WebKit,Browser,Android Mobile
+mianyang,Computer,Safari 5,Browser,Windows XP
+guangyuan,Computer,Internet Explorer 8,Browser,Windows XP
+suining,Computer,Chrome 30,Browser,Windows XP
+neijiang,Computer,Internet Explorer 7,Browser,Windows 8
+leshan,Computer,Chrome 29,Browser,Windows 7
+nanchong,Mobile,Mobile Safari,Browser (mobile),Android 2.x
+meishan,Computer,Chrome 26,Browser,Windows XP
+yibin,Computer,Chrome 28,Browser,Windows XP
+guangan,Computer,Chrome 21,Browser,Windows XP
+dazhou,Computer,Safari 4,Browser,Mac OS X
+yaan,Computer,Firefox 24,Browser,Windows 7
+bazhong,Tablet,Safari 5,Browser,Android 4.x Tablet
+ziyang,Computer,Safari 5,Browser,Windows XP
+aba,Computer,Internet Explorer 9,Browser,Windows 7
+ganzi,Computer,Chrome 21,Browser,Windows 8
+liangshan,Computer,Internet Explorer 7,Browser,Windows XP
+guiyang,Computer,Chrome 26,Browser,Windows Vista
+liupanshui,Computer,Safari 5,Browser,Windows 7
+zunyi,Computer,Safari 5,Browser,Mac OS X
+anshun,Computer,Firefox 24,Browser,Windows 7
+tongren,Computer,Internet Explorer 7,Browser,Windows XP
+qianxinan,Computer,Chrome 20,Browser,Windows 7
+bijie,Computer,Chrome 21,Browser,Windows 7
+qiandongnan,Computer,Chrome 22,Browser,Windows 7
+qiannan,Computer,Safari 5,Browser,Mac OS X
+kunming,Computer,Safari 5,Browser,Windows XP
+qujing,Computer,Safari 5,Browser,Windows 7
+yuxi,Computer,Chrome 30,Browser,Windows 7
+baoshan,Computer,Chrome 21,Browser,Windows Vista
+zhaotong,Computer,Internet Explorer 8,Browser,Windows XP
+lijiang,Computer,Internet Explorer 7,Browser,Windows 8
+puer,Computer,Internet Explorer 7,Browser,Windows XP
+lincang,Computer,Internet Explorer 9,Browser,Windows 7
+chuxiong,Computer,Chrome 17,Browser,Windows 7
+honghe,Tablet,Safari 5,Browser,iOS 6 (iPad)
+wenshan,Computer,Internet Explorer 7,Browser,Windows XP
+xishuangbanna,Computer,Chrome 21,Browser,Windows XP
+dali,Computer,Chrome 17,Browser,Windows 7
+dehong,Computer,Internet Explorer 8,Browser,Windows XP
+nujiang,Computer,Chrome 21,Browser,Windows XP
+diqing,Computer,Chrome 21,Browser,Windows XP
+lasa,Computer,Chrome 21,Browser,Windows XP
+changdu,Computer,Internet Explorer 8,Browser,Windows XP
+shannan,Computer,Chrome 21,Browser,Windows XP
+rikaze,Computer,Chrome 21,Browser,Windows XP
+naqu,Computer,Chrome 21,Browser,Windows XP
+ali,Computer,Internet Explorer 7,Browser,Windows XP
+linzhi,Computer,Chrome 21,Browser,Windows 7
+xian,Computer,Chrome 18,Browser,Windows 7
+tongzhou,Computer,Chrome 21,Browser,Windows 7
+baoji,Computer,Firefox 24,Browser,Windows 7
+xianyang,Computer,Internet Explorer 8,Browser,Windows 7
+weinan,Computer,Chrome 21,Browser,Windows Vista
+yanan,Computer,Internet Explorer 10,Browser,Windows 7
+hanzhong,Computer,Safari 5,Browser,Windows XP
+yulin_333,Computer,Internet Explorer 9,Browser,Windows 8
+ankang,Computer,Chrome 21,Browser,Windows 7
+shangluo,Computer,Firefox 3,Browser,Windows 7
+lanzhou,Computer,Chrome 30,Browser,Mac OS X
+jiayuguan,Computer,Internet Explorer 7,Browser,Windows 8
+jinchang,Computer,Internet Explorer 10,Browser,Windows 8
+baiyin,Computer,Internet Explorer 7,Browser,Windows XP
+tianshui,Tablet,Mobile Safari,Browser (mobile),Mac OS X (iPad)
+wuwei,Computer,Internet Explorer 7,Browser,Windows 8
+zhangye,Computer,Internet Explorer 7,Browser,Windows 7
+pingliang,Computer,Chrome 21,Browser,Windows Vista
+jiuquan,Computer,Chrome 21,Browser,Windows XP
+qingyang,Computer,Mozilla,Browser,Windows XP
+dingxi,Computer,Chrome 30,Browser,Windows XP
+longnan,Computer,Chrome 21,Browser,Windows 8
+linxia,Computer,Chrome 26,Browser,Windows 7
+gannan,Computer,Chrome 26,Browser,Windows XP
+xining,Computer,Chrome 23,Browser,Windows XP
+haidong,Computer,Internet Explorer 7,Browser,Windows 8
+haibei,Computer,Chrome 24,Browser,Windows 7
+huangnan,Computer,Chrome 21,Browser,Windows 7
+hainanzangzu,Computer,Chrome 26,Browser,Windows 7
+guoluo,Computer,Safari 7,Browser,Mac OS X
+yushu,Computer,Chrome 21,Browser,Windows 7
+haixi,Mobile,Mobile Safari,Browser (mobile),Android 2.x
+yinchuan,Computer,Firefox 1.5,Browser,Windows XP
+shizuishan,Computer,Safari 5,Browser,Windows 7
+wuzhong,Computer,Mozilla,Browser,Windows XP
+guyuan,Computer,Internet Explorer 7,Browser,Windows 7
+zhongwei,Computer,Chrome 17,Browser,Windows XP
+wulumuqi,Computer,Chrome 14,Browser,Windows Vista
+kelamayi,Computer,Safari 5,Browser,Windows 7
+tulufan,Computer,Chrome 17,Browser,Windows XP
+hami,Computer,Safari 5,Browser,Mac OS X
+changji,Mobile,Apple WebKit,Browser,Android 2.x
+boertala,Computer,Chrome 20,Browser,Windows XP
+bayinguoleng,Mobile,Chrome Mobile,Browser (mobile),Android 4.x
+akesu,Computer,Internet Explorer 7,Browser,Windows XP
+kezilesukeerkezi,Computer,Internet Explorer 7,Browser,Windows XP
+kashi,Computer,Chrome 25,Browser,Windows XP
+hetian,Computer,Internet Explorer 7,Browser,Windows 8
+yili,Computer,Safari 6,Browser,Mac OS X
+tacheng,Computer,Internet Explorer 7,Browser,Windows XP
+aletai,Computer,Internet Explorer 7,Browser,Windows XP

@@ -1,0 +1,10 @@
+Try to recreate AVC. Then execute
+# ausearch -m avc -ts recent
+If you see PATH record check ownership/permissions on file, and fix it,
+otherwise report as a bugzilla.
+
+*****  Plugin catchall (9.59 confidence) suggests   **************************
+
+If you believe that mandb should have the dac_override capability by default.
+Then you should report this as a bug.
+You can generate a local policy module to allow this access.

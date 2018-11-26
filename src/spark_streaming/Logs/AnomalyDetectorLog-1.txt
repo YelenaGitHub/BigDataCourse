@@ -1,0 +1,209 @@
+/Library/Java/JavaVirtualMachines/jdk1.8.0_111.jdk/Contents/Home/bin/java -agentlib:jdwp=transport=dt_socket,address=127.0.0.1:54323,suspend=y,server=n -javaagent:/Users/Yelena/Library/Caches/IdeaIC2018.1/captureAgent/debugger-agent.jar=file:/private/var/folders/8k/cfqny8ds6gx0x3w3qfnhz7g40000gn/T/capture.props -Dfile.encoding=UTF-8 -classpath "/Library/Java/JavaVirtualMachines/jdk1.8.0_111.jdk/Contents/Home/jre/lib/charsets.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_111.jdk/Contents/Home/jre/lib/deploy.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_111.jdk/Contents/Home/jre/lib/ext/cldrdata.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_111.jdk/Contents/Home/jre/lib/ext/dnsns.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_111.jdk/Contents/Home/jre/lib/ext/jaccess.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_111.jdk/Contents/Home/jre/lib/ext/jfxrt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_111.jdk/Contents/Home/jre/lib/ext/localedata.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_111.jdk/Contents/Home/jre/lib/ext/nashorn.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_111.jdk/Contents/Home/jre/lib/ext/sunec.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_111.jdk/Contents/Home/jre/lib/ext/sunjce_provider.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_111.jdk/Contents/Home/jre/lib/ext/sunpkcs11.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_111.jdk/Contents/Home/jre/lib/ext/zipfs.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_111.jdk/Contents/Home/jre/lib/javaws.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_111.jdk/Contents/Home/jre/lib/jce.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_111.jdk/Contents/Home/jre/lib/jfr.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_111.jdk/Contents/Home/jre/lib/jfxswt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_111.jdk/Contents/Home/jre/lib/jsse.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_111.jdk/Contents/Home/jre/lib/management-agent.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_111.jdk/Contents/Home/jre/lib/plugin.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_111.jdk/Contents/Home/jre/lib/resources.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_111.jdk/Contents/Home/jre/lib/rt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_111.jdk/Contents/Home/lib/ant-javafx.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_111.jdk/Contents/Home/lib/dt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_111.jdk/Contents/Home/lib/javafx-mx.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_111.jdk/Contents/Home/lib/jconsole.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_111.jdk/Contents/Home/lib/packager.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_111.jdk/Contents/Home/lib/sa-jdi.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_111.jdk/Contents/Home/lib/tools.jar:/Users/Yelena/Documents/Work/Spark_Streaming/bigdata-training-master-33ed2ba160dfb3f0a225c8acac7f158e8adeb149/dev/homeworks/spark-streaming/homework2/target/classes:/Users/Yelena/.m2/repository/org/numenta/htm.java/0.6.13/htm.java-0.6.13.jar:/Users/Yelena/.m2/repository/joda-time/joda-time/2.5/joda-time-2.5.jar:/Users/Yelena/.m2/repository/com/chaschev/chutils/1.4/chutils-1.4.jar:/Users/Yelena/.m2/repository/net/sf/trove4j/trove4j/3.0.3/trove4j-3.0.3.jar:/Users/Yelena/.m2/repository/org/slf4j/slf4j-api/1.7.10/slf4j-api-1.7.10.jar:/Users/Yelena/.m2/repository/io/reactivex/rxjava/1.0.10/rxjava-1.0.10.jar:/Users/Yelena/.m2/repository/com/cedarsoftware/java-util/1.19.3/java-util-1.19.3.jar:/Users/Yelena/.m2/repository/org/apache/logging/log4j/log4j-api/2.1/log4j-api-2.1.jar:/Users/Yelena/.m2/repository/org/apache/logging/log4j/log4j-core/2.1/log4j-core-2.1.jar:/Users/Yelena/.m2/repository/de/ruedigermoeller/fst/2.45/fst-2.45.jar:/Users/Yelena/.m2/repository/org/javassist/javassist/3.19.0-GA/javassist-3.19.0-GA.jar:/Users/Yelena/.m2/repository/org/objenesis/objenesis/2.1/objenesis-2.1.jar:/Users/Yelena/.m2/repository/org/openjdk/jmh/jmh-core/1.11.3/jmh-core-1.11.3.jar:/Users/Yelena/.m2/repository/net/sf/jopt-simple/jopt-simple/4.6/jopt-simple-4.6.jar:/Users/Yelena/.m2/repository/algorithmfoundry/algorithmfoundry-shade-culled/1.3/algorithmfoundry-shade-culled-1.3.jar:/Users/Yelena/.m2/repository/com/opencsv/opencsv/3.10/opencsv-3.10.jar:/Users/Yelena/.m2/repository/org/apache/commons/commons-lang3/3.5/commons-lang3-3.5.jar:/Users/Yelena/.m2/repository/commons-beanutils/commons-beanutils/1.9.3/commons-beanutils-1.9.3.jar:/Users/Yelena/.m2/repository/commons-logging/commons-logging/1.2/commons-logging-1.2.jar:/Users/Yelena/.m2/repository/commons-collections/commons-collections/3.2.2/commons-collections-3.2.2.jar:/Users/Yelena/.m2/repository/org/apache/spark/spark-core_2.11/2.1.0/spark-core_2.11-2.1.0.jar:/Users/Yelena/.m2/repository/org/apache/avro/avro-mapred/1.7.7/avro-mapred-1.7.7-hadoop2.jar:/Users/Yelena/.m2/repository/org/apache/avro/avro-ipc/1.7.7/avro-ipc-1.7.7.jar:/Users/Yelena/.m2/repository/org/apache/avro/avro/1.7.7/avro-1.7.7.jar:/Users/Yelena/.m2/repository/org/apache/avro/avro-ipc/1.7.7/avro-ipc-1.7.7-tests.jar:/Users/Yelena/.m2/repository/org/codehaus/jackson/jackson-core-asl/1.9.13/jackson-core-asl-1.9.13.jar:/Users/Yelena/.m2/repository/org/codehaus/jackson/jackson-mapper-asl/1.9.13/jackson-mapper-asl-1.9.13.jar:/Users/Yelena/.m2/repository/com/twitter/chill_2.11/0.8.0/chill_2.11-0.8.0.jar:/Users/Yelena/.m2/repository/com/esotericsoftware/kryo-shaded/3.0.3/kryo-shaded-3.0.3.jar:/Users/Yelena/.m2/repository/com/esotericsoftware/minlog/1.3.0/minlog-1.3.0.jar:/Users/Yelena/.m2/repository/com/twitter/chill-java/0.8.0/chill-java-0.8.0.jar:/Users/Yelena/.m2/repository/org/apache/xbean/xbean-asm5-shaded/4.4/xbean-asm5-shaded-4.4.jar:/Users/Yelena/.m2/repository/org/apache/hadoop/hadoop-client/2.2.0/hadoop-client-2.2.0.jar:/Users/Yelena/.m2/repository/org/apache/hadoop/hadoop-common/2.2.0/hadoop-common-2.2.0.jar:/Users/Yelena/.m2/repository/commons-cli/commons-cli/1.2/commons-cli-1.2.jar:/Users/Yelena/.m2/repository/org/apache/commons/commons-math/2.1/commons-math-2.1.jar:/Users/Yelena/.m2/repository/xmlenc/xmlenc/0.52/xmlenc-0.52.jar:/Users/Yelena/.m2/repository/commons-io/commons-io/2.1/commons-io-2.1.jar:/Users/Yelena/.m2/repository/commons-lang/commons-lang/2.5/commons-lang-2.5.jar:/Users/Yelena/.m2/repository/commons-configuration/commons-configuration/1.6/commons-configuration-1.6.jar:/Users/Yelena/.m2/repository/commons-digester/commons-digester/1.8/commons-digester-1.8.jar:/Users/Yelena/.m2/repository/commons-beanutils/commons-beanutils-core/1.8.0/commons-beanutils-core-1.8.0.jar:/Users/Yelena/.m2/repository/com/google/protobuf/protobuf-java/2.5.0/protobuf-java-2.5.0.jar:/Users/Yelena/.m2/repository/org/apache/hadoop/hadoop-auth/2.2.0/hadoop-auth-2.2.0.jar:/Users/Yelena/.m2/repository/org/apache/commons/commons-compress/1.4.1/commons-compress-1.4.1.jar:/Users/Yelena/.m2/repository/org/tukaani/xz/1.0/xz-1.0.jar:/Users/Yelena/.m2/repository/org/apache/hadoop/hadoop-hdfs/2.2.0/hadoop-hdfs-2.2.0.jar:/Users/Yelena/.m2/repository/org/mortbay/jetty/jetty-util/6.1.26/jetty-util-6.1.26.jar:/Users/Yelena/.m2/repository/org/apache/hadoop/hadoop-mapreduce-client-app/2.2.0/hadoop-mapreduce-client-app-2.2.0.jar:/Users/Yelena/.m2/repository/org/apache/hadoop/hadoop-mapreduce-client-common/2.2.0/hadoop-mapreduce-client-common-2.2.0.jar:/Users/Yelena/.m2/repository/org/apache/hadoop/hadoop-yarn-client/2.2.0/hadoop-yarn-client-2.2.0.jar:/Users/Yelena/.m2/repository/com/google/inject/guice/3.0/guice-3.0.jar:/Users/Yelena/.m2/repository/javax/inject/javax.inject/1/javax.inject-1.jar:/Users/Yelena/.m2/repository/aopalliance/aopalliance/1.0/aopalliance-1.0.jar:/Users/Yelena/.m2/repository/org/apache/hadoop/hadoop-yarn-server-common/2.2.0/hadoop-yarn-server-common-2.2.0.jar:/Users/Yelena/.m2/repository/org/apache/hadoop/hadoop-mapreduce-client-shuffle/2.2.0/hadoop-mapreduce-client-shuffle-2.2.0.jar:/Users/Yelena/.m2/repository/org/apache/hadoop/hadoop-yarn-api/2.2.0/hadoop-yarn-api-2.2.0.jar:/Users/Yelena/.m2/repository/org/apache/hadoop/hadoop-mapreduce-client-core/2.2.0/hadoop-mapreduce-client-core-2.2.0.jar:/Users/Yelena/.m2/repository/org/apache/hadoop/hadoop-yarn-common/2.2.0/hadoop-yarn-common-2.2.0.jar:/Users/Yelena/.m2/repository/org/apache/hadoop/hadoop-mapreduce-client-jobclient/2.2.0/hadoop-mapreduce-client-jobclient-2.2.0.jar:/Users/Yelena/.m2/repository/org/apache/hadoop/hadoop-annotations/2.2.0/hadoop-annotations-2.2.0.jar:/Users/Yelena/.m2/repository/org/apache/spark/spark-launcher_2.11/2.1.0/spark-launcher_2.11-2.1.0.jar:/Users/Yelena/.m2/repository/org/apache/spark/spark-network-common_2.11/2.1.0/spark-network-common_2.11-2.1.0.jar:/Users/Yelena/.m2/repository/org/fusesource/leveldbjni/leveldbjni-all/1.8/leveldbjni-all-1.8.jar:/Users/Yelena/.m2/repository/org/apache/spark/spark-network-shuffle_2.11/2.1.0/spark-network-shuffle_2.11-2.1.0.jar:/Users/Yelena/.m2/repository/org/apache/spark/spark-unsafe_2.11/2.1.0/spark-unsafe_2.11-2.1.0.jar:/Users/Yelena/.m2/repository/net/java/dev/jets3t/jets3t/0.7.1/jets3t-0.7.1.jar:/Users/Yelena/.m2/repository/commons-codec/commons-codec/1.3/commons-codec-1.3.jar:/Users/Yelena/.m2/repository/commons-httpclient/commons-httpclient/3.1/commons-httpclient-3.1.jar:/Users/Yelena/.m2/repository/org/apache/curator/curator-recipes/2.4.0/curator-recipes-2.4.0.jar:/Users/Yelena/.m2/repository/org/apache/curator/curator-framework/2.4.0/curator-framework-2.4.0.jar:/Users/Yelena/.m2/repository/org/apache/curator/curator-client/2.4.0/curator-client-2.4.0.jar:/Users/Yelena/.m2/repository/org/apache/zookeeper/zookeeper/3.4.5/zookeeper-3.4.5.jar:/Users/Yelena/.m2/repository/com/google/guava/guava/14.0.1/guava-14.0.1.jar:/Users/Yelena/.m2/repository/javax/servlet/javax.servlet-api/3.1.0/javax.servlet-api-3.1.0.jar:/Users/Yelena/.m2/repository/org/apache/commons/commons-math3/3.4.1/commons-math3-3.4.1.jar:/Users/Yelena/.m2/repository/com/google/code/findbugs/jsr305/1.3.9/jsr305-1.3.9.jar:/Users/Yelena/.m2/repository/org/slf4j/jul-to-slf4j/1.7.16/jul-to-slf4j-1.7.16.jar:/Users/Yelena/.m2/repository/org/slf4j/jcl-over-slf4j/1.7.16/jcl-over-slf4j-1.7.16.jar:/Users/Yelena/.m2/repository/log4j/log4j/1.2.17/log4j-1.2.17.jar:/Users/Yelena/.m2/repository/org/slf4j/slf4j-log4j12/1.7.16/slf4j-log4j12-1.7.16.jar:/Users/Yelena/.m2/repository/com/ning/compress-lzf/1.0.3/compress-lzf-1.0.3.jar:/Users/Yelena/.m2/repository/org/xerial/snappy/snappy-java/1.1.2.6/snappy-java-1.1.2.6.jar:/Users/Yelena/.m2/repository/net/jpountz/lz4/lz4/1.3.0/lz4-1.3.0.jar:/Users/Yelena/.m2/repository/org/roaringbitmap/RoaringBitmap/0.5.11/RoaringBitmap-0.5.11.jar:/Users/Yelena/.m2/repository/commons-net/commons-net/2.2/commons-net-2.2.jar:/Users/Yelena/.m2/repository/org/scala-lang/scala-library/2.11.8/scala-library-2.11.8.jar:/Users/Yelena/.m2/repository/org/json4s/json4s-jackson_2.11/3.2.11/json4s-jackson_2.11-3.2.11.jar:/Users/Yelena/.m2/repository/org/json4s/json4s-core_2.11/3.2.11/json4s-core_2.11-3.2.11.jar:/Users/Yelena/.m2/repository/org/json4s/json4s-ast_2.11/3.2.11/json4s-ast_2.11-3.2.11.jar:/Users/Yelena/.m2/repository/com/thoughtworks/paranamer/paranamer/2.6/paranamer-2.6.jar:/Users/Yelena/.m2/repository/org/scala-lang/scalap/2.11.0/scalap-2.11.0.jar:/Users/Yelena/.m2/repository/org/scala-lang/scala-compiler/2.11.0/scala-compiler-2.11.0.jar:/Users/Yelena/.m2/repository/org/glassfish/jersey/core/jersey-client/2.22.2/jersey-client-2.22.2.jar:/Users/Yelena/.m2/repository/javax/ws/rs/javax.ws.rs-api/2.0.1/javax.ws.rs-api-2.0.1.jar:/Users/Yelena/.m2/repository/org/glassfish/hk2/hk2-api/2.4.0-b34/hk2-api-2.4.0-b34.jar:/Users/Yelena/.m2/repository/org/glassfish/hk2/hk2-utils/2.4.0-b34/hk2-utils-2.4.0-b34.jar:/Users/Yelena/.m2/repository/org/glassfish/hk2/external/aopalliance-repackaged/2.4.0-b34/aopalliance-repackaged-2.4.0-b34.jar:/Users/Yelena/.m2/repository/org/glassfish/hk2/external/javax.inject/2.4.0-b34/javax.inject-2.4.0-b34.jar:/Users/Yelena/.m2/repository/org/glassfish/hk2/hk2-locator/2.4.0-b34/hk2-locator-2.4.0-b34.jar:/Users/Yelena/.m2/repository/org/glassfish/jersey/core/jersey-common/2.22.2/jersey-common-2.22.2.jar:/Users/Yelena/.m2/repository/javax/annotation/javax.annotation-api/1.2/javax.annotation-api-1.2.jar:/Users/Yelena/.m2/repository/org/glassfish/jersey/bundles/repackaged/jersey-guava/2.22.2/jersey-guava-2.22.2.jar:/Users/Yelena/.m2/repository/org/glassfish/hk2/osgi-resource-locator/1.0.1/osgi-resource-locator-1.0.1.jar:/Users/Yelena/.m2/repository/org/glassfish/jersey/core/jersey-server/2.22.2/jersey-server-2.22.2.jar:/Users/Yelena/.m2/repository/org/glassfish/jersey/media/jersey-media-jaxb/2.22.2/jersey-media-jaxb-2.22.2.jar:/Users/Yelena/.m2/repository/javax/validation/validation-api/1.1.0.Final/validation-api-1.1.0.Final.jar:/Users/Yelena/.m2/repository/org/glassfish/jersey/containers/jersey-container-servlet/2.22.2/jersey-container-servlet-2.22.2.jar:/Users/Yelena/.m2/repository/org/glassfish/jersey/containers/jersey-container-servlet-core/2.22.2/jersey-container-servlet-core-2.22.2.jar:/Users/Yelena/.m2/repository/io/netty/netty-all/4.0.42.Final/netty-all-4.0.42.Final.jar:/Users/Yelena/.m2/repository/io/netty/netty/3.8.0.Final/netty-3.8.0.Final.jar:/Users/Yelena/.m2/repository/com/clearspring/analytics/stream/2.7.0/stream-2.7.0.jar:/Users/Yelena/.m2/repository/io/dropwizard/metrics/metrics-core/3.1.2/metrics-core-3.1.2.jar:/Users/Yelena/.m2/repository/io/dropwizard/metrics/metrics-jvm/3.1.2/metrics-jvm-3.1.2.jar:/Users/Yelena/.m2/repository/io/dropwizard/metrics/metrics-json/3.1.2/metrics-json-3.1.2.jar:/Users/Yelena/.m2/repository/io/dropwizard/metrics/metrics-graphite/3.1.2/metrics-graphite-3.1.2.jar:/Users/Yelena/.m2/repository/com/fasterxml/jackson/module/jackson-module-scala_2.11/2.6.5/jackson-module-scala_2.11-2.6.5.jar:/Users/Yelena/.m2/repository/org/scala-lang/scala-reflect/2.11.7/scala-reflect-2.11.7.jar:/Users/Yelena/.m2/repository/com/fasterxml/jackson/module/jackson-module-paranamer/2.6.5/jackson-module-paranamer-2.6.5.jar:/Users/Yelena/.m2/repository/org/apache/ivy/ivy/2.4.0/ivy-2.4.0.jar:/Users/Yelena/.m2/repository/oro/oro/2.0.8/oro-2.0.8.jar:/Users/Yelena/.m2/repository/net/razorvine/pyrolite/4.13/pyrolite-4.13.jar:/Users/Yelena/.m2/repository/net/sf/py4j/py4j/0.10.4/py4j-0.10.4.jar:/Users/Yelena/.m2/repository/org/apache/spark/spark-tags_2.11/2.1.0/spark-tags_2.11-2.1.0.jar:/Users/Yelena/.m2/repository/org/scalatest/scalatest_2.11/2.2.6/scalatest_2.11-2.2.6.jar:/Users/Yelena/.m2/repository/org/scala-lang/modules/scala-xml_2.11/1.0.2/scala-xml_2.11-1.0.2.jar:/Users/Yelena/.m2/repository/org/apache/commons/commons-crypto/1.0.0/commons-crypto-1.0.0.jar:/Users/Yelena/.m2/repository/org/spark-project/spark/unused/1.0.0/unused-1.0.0.jar:/Users/Yelena/.m2/repository/org/apache/spark/spark-sql_2.11/2.1.0/spark-sql_2.11-2.1.0.jar:/Users/Yelena/.m2/repository/com/univocity/univocity-parsers/2.2.1/univocity-parsers-2.2.1.jar:/Users/Yelena/.m2/repository/org/apache/spark/spark-sketch_2.11/2.1.0/spark-sketch_2.11-2.1.0.jar:/Users/Yelena/.m2/repository/org/apache/spark/spark-catalyst_2.11/2.1.0/spark-catalyst_2.11-2.1.0.jar:/Users/Yelena/.m2/repository/org/codehaus/janino/janino/3.0.0/janino-3.0.0.jar:/Users/Yelena/.m2/repository/org/codehaus/janino/commons-compiler/3.0.0/commons-compiler-3.0.0.jar:/Users/Yelena/.m2/repository/org/antlr/antlr4-runtime/4.5.3/antlr4-runtime-4.5.3.jar:/Users/Yelena/.m2/repository/org/apache/parquet/parquet-column/1.8.1/parquet-column-1.8.1.jar:/Users/Yelena/.m2/repository/org/apache/parquet/parquet-common/1.8.1/parquet-common-1.8.1.jar:/Users/Yelena/.m2/repository/org/apache/parquet/parquet-encoding/1.8.1/parquet-encoding-1.8.1.jar:/Users/Yelena/.m2/repository/org/apache/parquet/parquet-hadoop/1.8.1/parquet-hadoop-1.8.1.jar:/Users/Yelena/.m2/repository/org/apache/parquet/parquet-format/2.3.0-incubating/parquet-format-2.3.0-incubating.jar:/Users/Yelena/.m2/repository/org/apache/parquet/parquet-jackson/1.8.1/parquet-jackson-1.8.1.jar:/Users/Yelena/.m2/repository/org/apache/spark/spark-streaming_2.11/2.1.0/spark-streaming_2.11-2.1.0.jar:/Users/Yelena/.m2/repository/org/apache/spark/spark-streaming-kafka-0-10_2.11/2.1.0/spark-streaming-kafka-0-10_2.11-2.1.0.jar:/Users/Yelena/.m2/repository/org/apache/kafka/kafka_2.11/0.10.0.1/kafka_2.11-0.10.0.1.jar:/Users/Yelena/.m2/repository/com/101tec/zkclient/0.8/zkclient-0.8.jar:/Users/Yelena/.m2/repository/com/yammer/metrics/metrics-core/2.2.0/metrics-core-2.2.0.jar:/Users/Yelena/.m2/repository/org/scala-lang/modules/scala-parser-combinators_2.11/1.0.4/scala-parser-combinators_2.11-1.0.4.jar:/Users/Yelena/.m2/repository/org/apache/kafka/kafka-clients/0.10.0.1/kafka-clients-0.10.0.1.jar:/Users/Yelena/.m2/repository/com/fasterxml/jackson/core/jackson-core/2.6.7/jackson-core-2.6.7.jar:/Users/Yelena/.m2/repository/com/fasterxml/jackson/core/jackson-databind/2.6.7/jackson-databind-2.6.7.jar:/Users/Yelena/.m2/repository/com/fasterxml/jackson/core/jackson-annotations/2.6.7/jackson-annotations-2.6.7.jar:/Applications/IntelliJ IDEA CE.app/Contents/lib/idea_rt.jar" com.epam.bdcc.spark.AnomalyDetector
+objc[1934]: Class JavaLaunchHelper is implemented in both /Library/Java/JavaVirtualMachines/jdk1.8.0_111.jdk/Contents/Home/bin/java (0x10a8a84c0) and /Library/Java/JavaVirtualMachines/jdk1.8.0_111.jdk/Contents/Home/jre/lib/libinstrument.dylib (0x10a97b4e0). One of the two will be used. Which one is undefined.
+Connected to the target VM, address: '127.0.0.1:54323', transport: 'socket'
+18/05/31 15:01:28 INFO PropertiesLoader: {enriched.topic=monitoringEnriched2, retries=0, sample.file=./data/one_device_2015-2017.csv, acks=all, app.name=AnomalyDetector, buffer.memory=33554432, enable.auto.commit=true, checkpoint.dir=./checkpoint, batch.size=100, window.duration=600000, skip.header=true, batch.duration=10000, group.id=detector_group, auto.offset.reset=latest, raw.topic=monitoring20, linger.ms=1, bootstrap.servers=localhost:9092, checkpoint.interval=60000, batch.sleep=0}
+18/05/31 15:01:29 INFO SparkContext: Running Spark version 2.1.0
+18/05/31 15:01:30 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+18/05/31 15:01:30 INFO SecurityManager: Changing view acls to: Yelena
+18/05/31 15:01:30 INFO SecurityManager: Changing modify acls to: Yelena
+18/05/31 15:01:30 INFO SecurityManager: Changing view acls groups to: 
+18/05/31 15:01:30 INFO SecurityManager: Changing modify acls groups to: 
+18/05/31 15:01:30 INFO SecurityManager: SecurityManager: authentication disabled; ui acls disabled; users  with view permissions: Set(Yelena); groups with view permissions: Set(); users  with modify permissions: Set(Yelena); groups with modify permissions: Set()
+18/05/31 15:01:30 INFO Utils: Successfully started service 'sparkDriver' on port 54333.
+18/05/31 15:01:30 INFO SparkEnv: Registering MapOutputTracker
+18/05/31 15:01:30 INFO SparkEnv: Registering BlockManagerMaster
+18/05/31 15:01:30 INFO BlockManagerMasterEndpoint: Using org.apache.spark.storage.DefaultTopologyMapper for getting topology information
+18/05/31 15:01:30 INFO BlockManagerMasterEndpoint: BlockManagerMasterEndpoint up
+18/05/31 15:01:30 INFO DiskBlockManager: Created local directory at /private/var/folders/8k/cfqny8ds6gx0x3w3qfnhz7g40000gn/T/blockmgr-237e0648-4ab6-4345-aac8-60d3348b5cb0
+18/05/31 15:01:31 INFO MemoryStore: MemoryStore started with capacity 912.3 MB
+18/05/31 15:01:31 INFO SparkEnv: Registering OutputCommitCoordinator
+18/05/31 15:01:31 INFO log: Logging initialized @3741ms
+18/05/31 15:01:31 INFO Server: jetty-9.2.z-SNAPSHOT
+18/05/31 15:01:31 INFO ContextHandler: Started o.s.j.s.ServletContextHandler@3d98d138{/jobs,null,AVAILABLE}
+18/05/31 15:01:31 INFO ContextHandler: Started o.s.j.s.ServletContextHandler@2f2d52ef{/jobs/json,null,AVAILABLE}
+18/05/31 15:01:31 INFO ContextHandler: Started o.s.j.s.ServletContextHandler@f2ce6b{/jobs/job,null,AVAILABLE}
+18/05/31 15:01:31 INFO ContextHandler: Started o.s.j.s.ServletContextHandler@25c53f74{/jobs/job/json,null,AVAILABLE}
+18/05/31 15:01:31 INFO ContextHandler: Started o.s.j.s.ServletContextHandler@5e2f3be5{/stages,null,AVAILABLE}
+18/05/31 15:01:31 INFO ContextHandler: Started o.s.j.s.ServletContextHandler@1bd0b0e5{/stages/json,null,AVAILABLE}
+18/05/31 15:01:31 INFO ContextHandler: Started o.s.j.s.ServletContextHandler@dc7b462{/stages/stage,null,AVAILABLE}
+18/05/31 15:01:31 INFO ContextHandler: Started o.s.j.s.ServletContextHandler@1f51431{/stages/stage/json,null,AVAILABLE}
+18/05/31 15:01:31 INFO ContextHandler: Started o.s.j.s.ServletContextHandler@26a2f7f9{/stages/pool,null,AVAILABLE}
+18/05/31 15:01:31 INFO ContextHandler: Started o.s.j.s.ServletContextHandler@38eb2c50{/stages/pool/json,null,AVAILABLE}
+18/05/31 15:01:31 INFO ContextHandler: Started o.s.j.s.ServletContextHandler@8bffb8b{/storage,null,AVAILABLE}
+18/05/31 15:01:31 INFO ContextHandler: Started o.s.j.s.ServletContextHandler@21422231{/storage/json,null,AVAILABLE}
+18/05/31 15:01:31 INFO ContextHandler: Started o.s.j.s.ServletContextHandler@10ee04df{/storage/rdd,null,AVAILABLE}
+18/05/31 15:01:31 INFO ContextHandler: Started o.s.j.s.ServletContextHandler@7186333e{/storage/rdd/json,null,AVAILABLE}
+18/05/31 15:01:31 INFO ContextHandler: Started o.s.j.s.ServletContextHandler@692fd26{/environment,null,AVAILABLE}
+18/05/31 15:01:31 INFO ContextHandler: Started o.s.j.s.ServletContextHandler@36f1046f{/environment/json,null,AVAILABLE}
+18/05/31 15:01:31 INFO ContextHandler: Started o.s.j.s.ServletContextHandler@56d93692{/executors,null,AVAILABLE}
+18/05/31 15:01:31 INFO ContextHandler: Started o.s.j.s.ServletContextHandler@1686f0b4{/executors/json,null,AVAILABLE}
+18/05/31 15:01:31 INFO ContextHandler: Started o.s.j.s.ServletContextHandler@76c548f{/executors/threadDump,null,AVAILABLE}
+18/05/31 15:01:31 INFO ContextHandler: Started o.s.j.s.ServletContextHandler@3900fa71{/executors/threadDump/json,null,AVAILABLE}
+18/05/31 15:01:31 INFO ContextHandler: Started o.s.j.s.ServletContextHandler@26722665{/static,null,AVAILABLE}
+18/05/31 15:01:31 INFO ContextHandler: Started o.s.j.s.ServletContextHandler@7d0614f{/,null,AVAILABLE}
+18/05/31 15:01:31 INFO ContextHandler: Started o.s.j.s.ServletContextHandler@627d8516{/api,null,AVAILABLE}
+18/05/31 15:01:31 INFO ContextHandler: Started o.s.j.s.ServletContextHandler@5c10285a{/jobs/job/kill,null,AVAILABLE}
+18/05/31 15:01:31 INFO ContextHandler: Started o.s.j.s.ServletContextHandler@6b667cb3{/stages/stage/kill,null,AVAILABLE}
+18/05/31 15:01:31 INFO ServerConnector: Started ServerConnector@100f3b44{HTTP/1.1}{0.0.0.0:4040}
+18/05/31 15:01:31 INFO Server: Started @3924ms
+18/05/31 15:01:31 INFO Utils: Successfully started service 'SparkUI' on port 4040.
+18/05/31 15:01:31 INFO SparkUI: Bound SparkUI to 0.0.0.0, and started at http://10.66.169.34:4040
+18/05/31 15:01:31 INFO Executor: Starting executor ID driver on host localhost
+18/05/31 15:01:31 INFO Utils: Successfully started service 'org.apache.spark.network.netty.NettyBlockTransferService' on port 54334.
+18/05/31 15:01:31 INFO NettyBlockTransferService: Server created on 10.66.169.34:54334
+18/05/31 15:01:31 INFO BlockManager: Using org.apache.spark.storage.RandomBlockReplicationPolicy for block replication policy
+18/05/31 15:01:31 INFO BlockManagerMaster: Registering BlockManager BlockManagerId(driver, 10.66.169.34, 54334, None)
+18/05/31 15:01:31 INFO BlockManagerMasterEndpoint: Registering block manager 10.66.169.34:54334 with 912.3 MB RAM, BlockManagerId(driver, 10.66.169.34, 54334, None)
+18/05/31 15:01:31 INFO BlockManagerMaster: Registered BlockManager BlockManagerId(driver, 10.66.169.34, 54334, None)
+18/05/31 15:01:31 INFO BlockManager: Initialized BlockManager: BlockManagerId(driver, 10.66.169.34, 54334, None)
+18/05/31 15:01:31 INFO ContextHandler: Started o.s.j.s.ServletContextHandler@4eba373c{/metrics/json,null,AVAILABLE}
+18/05/31 15:01:32 WARN KafkaUtils: overriding enable.auto.commit to false for executor
+18/05/31 15:01:32 WARN KafkaUtils: overriding auto.offset.reset to none for executor
+18/05/31 15:01:32 WARN KafkaUtils: overriding executor group.id to spark-executor-detector_group
+18/05/31 15:01:32 WARN KafkaUtils: overriding receive.buffer.bytes to 65536 see KAFKA-3135
+18/05/31 15:01:58 INFO FileBasedWriteAheadLog_ReceivedBlockTracker: Recovered 4 write ahead log files from file:/Users/Yelena/Documents/Work/Spark_Streaming/bigdata-training-master-33ed2ba160dfb3f0a225c8acac7f158e8adeb149/dev/homeworks/spark-streaming/homework2/checkpoint/receivedBlockMetadata
+18/05/31 15:01:58 INFO MappedDStream: Duration for remembering RDDs set to 200000 ms for org.apache.spark.streaming.dstream.MappedDStream@7f85217c
+18/05/31 15:01:58 INFO DirectKafkaInputDStream: Duration for remembering RDDs set to 200000 ms for org.apache.spark.streaming.kafka010.DirectKafkaInputDStream@161dd92a
+18/05/31 15:01:58 INFO DirectKafkaInputDStream: Slide time = 10000 ms
+18/05/31 15:01:58 INFO DirectKafkaInputDStream: Storage level = Serialized 1x Replicated
+18/05/31 15:01:58 INFO DirectKafkaInputDStream: Checkpoint interval = null
+18/05/31 15:01:58 INFO DirectKafkaInputDStream: Remember interval = 200000 ms
+18/05/31 15:01:58 INFO DirectKafkaInputDStream: Initialized and validated org.apache.spark.streaming.kafka010.DirectKafkaInputDStream@161dd92a
+18/05/31 15:01:58 INFO MappedDStream: Slide time = 10000 ms
+18/05/31 15:01:58 INFO MappedDStream: Storage level = Memory Serialized 1x Replicated
+18/05/31 15:01:58 INFO MappedDStream: Checkpoint interval = 60000 ms
+18/05/31 15:01:58 INFO MappedDStream: Remember interval = 200000 ms
+18/05/31 15:01:58 INFO MappedDStream: Initialized and validated org.apache.spark.streaming.dstream.MappedDStream@7f85217c
+18/05/31 15:01:58 INFO InternalMapWithStateDStream: Slide time = 10000 ms
+18/05/31 15:01:58 INFO InternalMapWithStateDStream: Storage level = Memory Deserialized 1x Replicated
+18/05/31 15:01:58 INFO InternalMapWithStateDStream: Checkpoint interval = 100000 ms
+18/05/31 15:01:58 INFO InternalMapWithStateDStream: Remember interval = 200000 ms
+18/05/31 15:01:58 INFO InternalMapWithStateDStream: Initialized and validated org.apache.spark.streaming.dstream.InternalMapWithStateDStream@71179b6f
+18/05/31 15:01:58 INFO MapWithStateDStreamImpl: Slide time = 10000 ms
+18/05/31 15:01:58 INFO MapWithStateDStreamImpl: Storage level = Serialized 1x Replicated
+18/05/31 15:01:58 INFO MapWithStateDStreamImpl: Checkpoint interval = null
+18/05/31 15:01:58 INFO MapWithStateDStreamImpl: Remember interval = 10000 ms
+18/05/31 15:01:58 INFO MapWithStateDStreamImpl: Initialized and validated org.apache.spark.streaming.dstream.MapWithStateDStreamImpl@14168e1
+18/05/31 15:01:58 INFO ForEachDStream: Slide time = 10000 ms
+18/05/31 15:01:58 INFO ForEachDStream: Storage level = Serialized 1x Replicated
+18/05/31 15:01:58 INFO ForEachDStream: Checkpoint interval = null
+18/05/31 15:01:58 INFO ForEachDStream: Remember interval = 10000 ms
+18/05/31 15:01:58 INFO ForEachDStream: Initialized and validated org.apache.spark.streaming.dstream.ForEachDStream@7f353a0f
+18/05/31 15:01:58 INFO ConsumerConfig: ConsumerConfig values: 
+	metric.reporters = []
+	metadata.max.age.ms = 300000
+	partition.assignment.strategy = [org.apache.kafka.clients.consumer.RangeAssignor]
+	reconnect.backoff.ms = 50
+	sasl.kerberos.ticket.renew.window.factor = 0.8
+	max.partition.fetch.bytes = 1048576
+	bootstrap.servers = [localhost:9092]
+	ssl.keystore.type = JKS
+	enable.auto.commit = true
+	sasl.mechanism = GSSAPI
+	interceptor.classes = null
+	exclude.internal.topics = true
+	ssl.truststore.password = null
+	client.id = 
+	ssl.endpoint.identification.algorithm = null
+	max.poll.records = 2147483647
+	check.crcs = true
+	request.timeout.ms = 40000
+	heartbeat.interval.ms = 3000
+	auto.commit.interval.ms = 5000
+	receive.buffer.bytes = 65536
+	ssl.truststore.type = JKS
+	ssl.truststore.location = null
+	ssl.keystore.password = null
+	fetch.min.bytes = 1
+	send.buffer.bytes = 131072
+	value.deserializer = class com.epam.bdcc.serde.KafkaJsonMonitoringRecordSerDe
+	group.id = detector_group
+	retry.backoff.ms = 100
+	sasl.kerberos.kinit.cmd = /usr/bin/kinit
+	sasl.kerberos.service.name = null
+	sasl.kerberos.ticket.renew.jitter = 0.05
+	ssl.trustmanager.algorithm = PKIX
+	ssl.key.password = null
+	fetch.max.wait.ms = 500
+	sasl.kerberos.min.time.before.relogin = 60000
+	connections.max.idle.ms = 540000
+	session.timeout.ms = 30000
+	metrics.num.samples = 2
+	key.deserializer = class org.apache.kafka.common.serialization.StringDeserializer
+	ssl.protocol = TLS
+	ssl.provider = null
+	ssl.enabled.protocols = [TLSv1.2, TLSv1.1, TLSv1]
+	ssl.keystore.location = null
+	ssl.cipher.suites = null
+	security.protocol = PLAINTEXT
+	ssl.keymanager.algorithm = SunX509
+	metrics.sample.window.ms = 30000
+	auto.offset.reset = latest
+
+18/05/31 15:01:58 INFO ConsumerConfig: ConsumerConfig values: 
+	metric.reporters = []
+	metadata.max.age.ms = 300000
+	partition.assignment.strategy = [org.apache.kafka.clients.consumer.RangeAssignor]
+	reconnect.backoff.ms = 50
+	sasl.kerberos.ticket.renew.window.factor = 0.8
+	max.partition.fetch.bytes = 1048576
+	bootstrap.servers = [localhost:9092]
+	ssl.keystore.type = JKS
+	enable.auto.commit = true
+	sasl.mechanism = GSSAPI
+	interceptor.classes = null
+	exclude.internal.topics = true
+	ssl.truststore.password = null
+	client.id = consumer-1
+	ssl.endpoint.identification.algorithm = null
+	max.poll.records = 2147483647
+	check.crcs = true
+	request.timeout.ms = 40000
+	heartbeat.interval.ms = 3000
+	auto.commit.interval.ms = 5000
+	receive.buffer.bytes = 65536
+	ssl.truststore.type = JKS
+	ssl.truststore.location = null
+	ssl.keystore.password = null
+	fetch.min.bytes = 1
+	send.buffer.bytes = 131072
+	value.deserializer = class com.epam.bdcc.serde.KafkaJsonMonitoringRecordSerDe
+	group.id = detector_group
+	retry.backoff.ms = 100
+	sasl.kerberos.kinit.cmd = /usr/bin/kinit
+	sasl.kerberos.service.name = null
+	sasl.kerberos.ticket.renew.jitter = 0.05
+	ssl.trustmanager.algorithm = PKIX
+	ssl.key.password = null
+	fetch.max.wait.ms = 500
+	sasl.kerberos.min.time.before.relogin = 60000
+	connections.max.idle.ms = 540000
+	session.timeout.ms = 30000
+	metrics.num.samples = 2
+	key.deserializer = class org.apache.kafka.common.serialization.StringDeserializer
+	ssl.protocol = TLS
+	ssl.provider = null
+	ssl.enabled.protocols = [TLSv1.2, TLSv1.1, TLSv1]
+	ssl.keystore.location = null
+	ssl.cipher.suites = null
+	security.protocol = PLAINTEXT
+	ssl.keymanager.algorithm = SunX509
+	metrics.sample.window.ms = 30000
+	auto.offset.reset = latest
+
+18/05/31 15:01:59 INFO AppInfoParser: Kafka version : 0.10.0.1
+18/05/31 15:01:59 INFO AppInfoParser: Kafka commitId : a7a17cdec9eaa6c5
+18/05/31 15:01:59 INFO AbstractCoordinator: Discovered coordinator yelenas-mbp.petersburg.epam.com:9092 (id: 2147483647 rack: null) for group detector_group.
+18/05/31 15:01:59 INFO ConsumerCoordinator: Revoking previously assigned partitions [] for group detector_group
+18/05/31 15:01:59 INFO AbstractCoordinator: (Re-)joining group detector_group
+18/05/31 15:01:59 INFO AbstractCoordinator: Successfully joined group detector_group with generation 5
+18/05/31 15:01:59 INFO ConsumerCoordinator: Setting newly assigned partitions [monitoring20-0] for group detector_group
+18/05/31 15:01:59 INFO RecurringTimer: Started timer for JobGenerator at time 1527768120000
+18/05/31 15:01:59 INFO JobGenerator: Started JobGenerator at 1527768120000 ms
+18/05/31 15:01:59 INFO JobScheduler: Started JobScheduler
+18/05/31 15:01:59 INFO ContextHandler: Started o.s.j.s.ServletContextHandler@52454457{/streaming,null,AVAILABLE}
+18/05/31 15:01:59 INFO ContextHandler: Started o.s.j.s.ServletContextHandler@61ff6a49{/streaming/json,null,AVAILABLE}
+18/05/31 15:01:59 INFO ContextHandler: Started o.s.j.s.ServletContextHandler@4c6a4ffd{/streaming/batch,null,AVAILABLE}
+18/05/31 15:01:59 INFO ContextHandler: Started o.s.j.s.ServletContextHandler@3f1a9a53{/streaming/batch/json,null,AVAILABLE}
+18/05/31 15:01:59 INFO ContextHandler: Started o.s.j.s.ServletContextHandler@38f981b6{/static/streaming,null,AVAILABLE}
+18/05/31 15:01:59 INFO StreamingContext: StreamingContext started
